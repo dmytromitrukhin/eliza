@@ -1,0 +1,11 @@
+{
+  "name": "Eliza",
+  "short_name": "Eliza",
+  "description": "A web-based dialogue program inspired by the classic ELIZA concept.",
+  "start_url": "/eliza/",
+  "scope": "/eliza/",
+  "display": "standalone",
+  "background_color": "#070a0f",
+  "theme_color": "#070a0f",
+  "icons": []
+}
